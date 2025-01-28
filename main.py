@@ -55,3 +55,9 @@ else:
 print("this is your social credit")
 print("i wonder if you like to suck xijingpiengs toes")
 print(socialcredit)
+print("")
+print("")
+print("")
+print("Want to rerun the quiz?")
+
+print("cd..; cd xi-jinping-lookslikewhiniethpooh; python3 main.py")
