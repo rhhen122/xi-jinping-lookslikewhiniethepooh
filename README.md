@@ -14,5 +14,5 @@ cd ..; rm -rf xi-jinping-lookslikewhiniethpooh
 ^^ run in terminal ^^
 ## rerun the test
 ```
-cd..; cd xi-jinping-lookslikewhiniethpooh; python3 main.py
+clear; cd ..; cd xi-jinping-lookslikewhiniethpooh; python3 main.py
 ```
