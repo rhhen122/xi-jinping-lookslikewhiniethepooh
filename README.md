@@ -7,3 +7,12 @@ made by rhhen122(https://iamcitrus.neocities.org) and riley(https://www.youtube.
 git clone https://github.com/rhhen122/xi-jinping-lookslikewhiniethpooh.git ; cd xi-jinping-lookslikewhiniethpooh; clear; python3 main.py
 ```
 ^^ run in terminal ^^
+## remove
+```
+cd ..; rm -rf xi-jinping-lookslikewhiniethpooh
+```
+^^ run in terminal ^^
+## rerun the test
+```
+cd..; cd xi-jinping-lookslikewhiniethpooh; python3 main.py
+```
