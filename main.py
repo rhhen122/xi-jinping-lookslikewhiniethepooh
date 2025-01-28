@@ -60,4 +60,4 @@ print("")
 print("")
 print("Want to rerun the quiz?")
 
-print("cd..; cd xi-jinping-lookslikewhiniethpooh; python3 main.py")
+print("cd ..; cd xi-jinping-lookslikewhiniethpooh; python3 main.py")
