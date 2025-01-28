@@ -7,7 +7,7 @@ made by rhhen122(https://iamcitrus.neocities.org) and riley(https://www.youtube.
 git clone https://github.com/rhhen122/xi-jinping-lookslikewhiniethpooh.git ; cd xi-jinping-lookslikewhiniethpooh; clear; python3 main.py
 ```
 ^^ run in terminal ^^
-## remove
+## remove (if it doesnt work its because you need to cd your user it the folder xi-jinping-lookslikewhiniethpooh/)
 ```
 cd ..; rm -rf xi-jinping-lookslikewhiniethpooh
 ```
